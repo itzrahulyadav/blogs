@@ -1,7 +1,6 @@
 # Azure kubenet vs Azure CNI
 
 
-<img width="200" height="200" alt="avatar_1681174457" src="https://github.com/user-attachments/assets/de449386-54ce-4881-8b9b-0de097cedf3b" />
 
 # Azure CNI vs. Kubenet: A Comparison for AKS Networking
 
