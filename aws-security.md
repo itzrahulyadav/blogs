@@ -1,4 +1,7 @@
-### AWS GuardDuty
+### AWS Security speciality
+Edit this page on Github [✏](https://github.com/itzrahulyadav/blogs/edit/main/aws-security.md)
+
+#### AWS GuardDuty
 
 - Intelligent threat detection system
 - Uses Machine learning algorithms
