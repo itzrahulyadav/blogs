@@ -1,6 +1,5 @@
 # Azure kubenet vs Azure CNI
-
-
+- Edit this page on Github [✏](https://github.com/itzrahulyadav/blogs/edit/main/azure-networking.md)
 
 # Azure CNI vs. Kubenet: A Comparison for AKS Networking
 
